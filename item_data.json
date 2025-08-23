@@ -1,0 +1,1210 @@
+[
+  {
+    "item_id": 7409189,
+    "bucket": null,
+    "wins": 1493419,
+    "losses": 1442333,
+    "matches": 2935752,
+    "players": 187868
+  },
+  {
+    "item_id": 26002154,
+    "bucket": null,
+    "wins": 274711,
+    "losses": 264754,
+    "matches": 539465,
+    "players": 78022
+  },
+  {
+    "item_id": 84321454,
+    "bucket": null,
+    "wins": 1167151,
+    "losses": 1126083,
+    "matches": 2293234,
+    "players": 167251
+  },
+  {
+    "item_id": 98582110,
+    "bucket": null,
+    "wins": 208679,
+    "losses": 200067,
+    "matches": 408746,
+    "players": 71759
+  },
+  {
+    "item_id": 112198670,
+    "bucket": null,
+    "wins": 352434,
+    "losses": 338325,
+    "matches": 690759,
+    "players": 102196
+  },
+  {
+    "item_id": 334300056,
+    "bucket": null,
+    "wins": 376006,
+    "losses": 375115,
+    "matches": 751121,
+    "players": 102036
+  },
+  {
+    "item_id": 339443430,
+    "bucket": null,
+    "wins": 54632,
+    "losses": 37024,
+    "matches": 91656,
+    "players": 33617
+  },
+  {
+    "item_id": 343572757,
+    "bucket": null,
+    "wins": 700785,
+    "losses": 530657,
+    "matches": 1231442,
+    "players": 124208
+  },
+  {
+    "item_id": 365620721,
+    "bucket": null,
+    "wins": 249785,
+    "losses": 189508,
+    "matches": 439293,
+    "players": 76977
+  },
+  {
+    "item_id": 380806748,
+    "bucket": null,
+    "wins": 1515362,
+    "losses": 1465355,
+    "matches": 2980717,
+    "players": 183451
+  },
+  {
+    "item_id": 381961617,
+    "bucket": null,
+    "wins": 171978,
+    "losses": 167935,
+    "matches": 339913,
+    "players": 66976
+  },
+  {
+    "item_id": 393974127,
+    "bucket": null,
+    "wins": 147333,
+    "losses": 146768,
+    "matches": 294101,
+    "players": 69038
+  },
+  {
+    "item_id": 395867183,
+    "bucket": null,
+    "wins": 378703,
+    "losses": 397605,
+    "matches": 776308,
+    "players": 102249
+  },
+  {
+    "item_id": 395944548,
+    "bucket": null,
+    "wins": 390005,
+    "losses": 361258,
+    "matches": 751263,
+    "players": 92086
+  },
+  {
+    "item_id": 465043967,
+    "bucket": null,
+    "wins": 375943,
+    "losses": 375579,
+    "matches": 751522,
+    "players": 103641
+  },
+  {
+    "item_id": 493591231,
+    "bucket": null,
+    "wins": 148655,
+    "losses": 114361,
+    "matches": 263016,
+    "players": 60260
+  },
+  {
+    "item_id": 499683006,
+    "bucket": null,
+    "wins": 811828,
+    "losses": 769505,
+    "matches": 1581333,
+    "players": 148279
+  },
+  {
+    "item_id": 600033864,
+    "bucket": null,
+    "wins": 235977,
+    "losses": 227383,
+    "matches": 463360,
+    "players": 65926
+  },
+  {
+    "item_id": 619484391,
+    "bucket": null,
+    "wins": 81706,
+    "losses": 87759,
+    "matches": 169465,
+    "players": 45826
+  },
+  {
+    "item_id": 630839635,
+    "bucket": null,
+    "wins": 225869,
+    "losses": 222851,
+    "matches": 448720,
+    "players": 67558
+  },
+  {
+    "item_id": 668299740,
+    "bucket": null,
+    "wins": 1098987,
+    "losses": 1100992,
+    "matches": 2199979,
+    "players": 173135
+  },
+  {
+    "item_id": 673001892,
+    "bucket": null,
+    "wins": 90136,
+    "losses": 74070,
+    "matches": 164206,
+    "players": 54851
+  },
+  {
+    "item_id": 677738769,
+    "bucket": null,
+    "wins": 108672,
+    "losses": 97709,
+    "matches": 206381,
+    "players": 48274
+  },
+  {
+    "item_id": 690458959,
+    "bucket": null,
+    "wins": 129519,
+    "losses": 147771,
+    "matches": 277290,
+    "players": 60329
+  },
+  {
+    "item_id": 709540378,
+    "bucket": null,
+    "wins": 315877,
+    "losses": 299503,
+    "matches": 615380,
+    "players": 87400
+  },
+  {
+    "item_id": 710436191,
+    "bucket": null,
+    "wins": 89212,
+    "losses": 86417,
+    "matches": 175629,
+    "players": 54182
+  },
+  {
+    "item_id": 754480263,
+    "bucket": null,
+    "wins": 782390,
+    "losses": 776771,
+    "matches": 1559161,
+    "players": 142656
+  },
+  {
+    "item_id": 787198704,
+    "bucket": null,
+    "wins": 829563,
+    "losses": 826942,
+    "matches": 1656505,
+    "players": 151368
+  },
+  {
+    "item_id": 800008313,
+    "bucket": null,
+    "wins": 208051,
+    "losses": 180797,
+    "matches": 388848,
+    "players": 64436
+  },
+  {
+    "item_id": 805079544,
+    "bucket": null,
+    "wins": 54823,
+    "losses": 65080,
+    "matches": 119903,
+    "players": 41859
+  },
+  {
+    "item_id": 811521119,
+    "bucket": null,
+    "wins": 367371,
+    "losses": 351999,
+    "matches": 719370,
+    "players": 97205
+  },
+  {
+    "item_id": 857669956,
+    "bucket": null,
+    "wins": 63786,
+    "losses": 63068,
+    "matches": 126854,
+    "players": 29642
+  },
+  {
+    "item_id": 865846625,
+    "bucket": null,
+    "wins": 578863,
+    "losses": 483607,
+    "matches": 1062470,
+    "players": 130104
+  },
+  {
+    "item_id": 865958998,
+    "bucket": null,
+    "wins": 65099,
+    "losses": 58471,
+    "matches": 123570,
+    "players": 30715
+  },
+  {
+    "item_id": 869090587,
+    "bucket": null,
+    "wins": 388291,
+    "losses": 296426,
+    "matches": 684717,
+    "players": 94263
+  },
+  {
+    "item_id": 876563814,
+    "bucket": null,
+    "wins": 831333,
+    "losses": 755368,
+    "matches": 1586701,
+    "players": 149044
+  },
+  {
+    "item_id": 915014646,
+    "bucket": null,
+    "wins": 833287,
+    "losses": 760919,
+    "matches": 1594206,
+    "players": 146189
+  },
+  {
+    "item_id": 968099481,
+    "bucket": null,
+    "wins": 1533616,
+    "losses": 1508738,
+    "matches": 3042354,
+    "players": 194879
+  },
+  {
+    "item_id": 989206714,
+    "bucket": null,
+    "wins": 13556,
+    "losses": 12477,
+    "matches": 26033,
+    "players": 10675
+  },
+  {
+    "item_id": 1009965641,
+    "bucket": null,
+    "wins": 793025,
+    "losses": 755650,
+    "matches": 1548675,
+    "players": 145972
+  },
+  {
+    "item_id": 1047818222,
+    "bucket": null,
+    "wins": 324837,
+    "losses": 308528,
+    "matches": 633365,
+    "players": 101108
+  },
+  {
+    "item_id": 1055679805,
+    "bucket": null,
+    "wins": 233081,
+    "losses": 197690,
+    "matches": 430771,
+    "players": 80262
+  },
+  {
+    "item_id": 1102081447,
+    "bucket": null,
+    "wins": 303544,
+    "losses": 266614,
+    "matches": 570158,
+    "players": 91514
+  },
+  {
+    "item_id": 1113837674,
+    "bucket": null,
+    "wins": 58301,
+    "losses": 39132,
+    "matches": 97433,
+    "players": 34624
+  },
+  {
+    "item_id": 1144549437,
+    "bucket": null,
+    "wins": 200614,
+    "losses": 191125,
+    "matches": 391739,
+    "players": 88488
+  },
+  {
+    "item_id": 1150006784,
+    "bucket": null,
+    "wins": 316873,
+    "losses": 314226,
+    "matches": 631099,
+    "players": 91814
+  },
+  {
+    "item_id": 1152158042,
+    "bucket": null,
+    "wins": 38099,
+    "losses": 32110,
+    "matches": 70209,
+    "players": 24426
+  },
+  {
+    "item_id": 1193964439,
+    "bucket": null,
+    "wins": 585690,
+    "losses": 556779,
+    "matches": 1142469,
+    "players": 125165
+  },
+  {
+    "item_id": 1219329868,
+    "bucket": null,
+    "wins": 49920,
+    "losses": 51278,
+    "matches": 101198,
+    "players": 31124
+  },
+  {
+    "item_id": 1235347618,
+    "bucket": null,
+    "wins": 320586,
+    "losses": 326002,
+    "matches": 646588,
+    "players": 113340
+  },
+  {
+    "item_id": 1250307611,
+    "bucket": null,
+    "wins": 253135,
+    "losses": 226422,
+    "matches": 479557,
+    "players": 97421
+  },
+  {
+    "item_id": 1252627263,
+    "bucket": null,
+    "wins": 268596,
+    "losses": 255659,
+    "matches": 524255,
+    "players": 78682
+  },
+  {
+    "item_id": 1254091416,
+    "bucket": null,
+    "wins": 71028,
+    "losses": 86517,
+    "matches": 157545,
+    "players": 44074
+  },
+  {
+    "item_id": 1282141666,
+    "bucket": null,
+    "wins": 330956,
+    "losses": 264893,
+    "matches": 595849,
+    "players": 90973
+  },
+  {
+    "item_id": 1292979587,
+    "bucket": null,
+    "wins": 658005,
+    "losses": 618913,
+    "matches": 1276918,
+    "players": 139429
+  },
+  {
+    "item_id": 1342610602,
+    "bucket": null,
+    "wins": 397992,
+    "losses": 403313,
+    "matches": 801305,
+    "players": 117258
+  },
+  {
+    "item_id": 1371725689,
+    "bucket": null,
+    "wins": 102390,
+    "losses": 78641,
+    "matches": 181031,
+    "players": 43171
+  },
+  {
+    "item_id": 1378931225,
+    "bucket": null,
+    "wins": 19466,
+    "losses": 32487,
+    "matches": 51953,
+    "players": 25737
+  },
+  {
+    "item_id": 1396247347,
+    "bucket": null,
+    "wins": 280113,
+    "losses": 204944,
+    "matches": 485057,
+    "players": 88673
+  },
+  {
+    "item_id": 1409190604,
+    "bucket": null,
+    "wins": 136667,
+    "losses": 134818,
+    "matches": 271485,
+    "players": 57881
+  },
+  {
+    "item_id": 1414025773,
+    "bucket": null,
+    "wins": 199773,
+    "losses": 194025,
+    "matches": 393798,
+    "players": 63412
+  },
+  {
+    "item_id": 1414319208,
+    "bucket": null,
+    "wins": 218557,
+    "losses": 194839,
+    "matches": 413396,
+    "players": 82232
+  },
+  {
+    "item_id": 1427630806,
+    "bucket": null,
+    "wins": 214439,
+    "losses": 176942,
+    "matches": 391381,
+    "players": 74688
+  },
+  {
+    "item_id": 1437614329,
+    "bucket": null,
+    "wins": 335322,
+    "losses": 333472,
+    "matches": 668794,
+    "players": 96997
+  },
+  {
+    "item_id": 1439347412,
+    "bucket": null,
+    "wins": 472592,
+    "losses": 497025,
+    "matches": 969617,
+    "players": 126624
+  },
+  {
+    "item_id": 1548066885,
+    "bucket": null,
+    "wins": 1009517,
+    "losses": 984191,
+    "matches": 1993708,
+    "players": 168733
+  },
+  {
+    "item_id": 1644605047,
+    "bucket": null,
+    "wins": 108668,
+    "losses": 111759,
+    "matches": 220427,
+    "players": 57297
+  },
+  {
+    "item_id": 1662311306,
+    "bucket": null,
+    "wins": 39979,
+    "losses": 32893,
+    "matches": 72872,
+    "players": 21303
+  },
+  {
+    "item_id": 1710079648,
+    "bucket": null,
+    "wins": 656693,
+    "losses": 679647,
+    "matches": 1336340,
+    "players": 135139
+  },
+  {
+    "item_id": 1770441818,
+    "bucket": null,
+    "wins": 119539,
+    "losses": 111363,
+    "matches": 230902,
+    "players": 61411
+  },
+  {
+    "item_id": 1797283378,
+    "bucket": null,
+    "wins": 165689,
+    "losses": 127441,
+    "matches": 293130,
+    "players": 67243
+  },
+  {
+    "item_id": 1798666702,
+    "bucket": null,
+    "wins": 17580,
+    "losses": 13617,
+    "matches": 31197,
+    "players": 11372
+  },
+  {
+    "item_id": 1804594021,
+    "bucket": null,
+    "wins": 123115,
+    "losses": 125215,
+    "matches": 248330,
+    "players": 40672
+  },
+  {
+    "item_id": 1813726886,
+    "bucket": null,
+    "wins": 119744,
+    "losses": 119451,
+    "matches": 239195,
+    "players": 60925
+  },
+  {
+    "item_id": 1925087134,
+    "bucket": null,
+    "wins": 299208,
+    "losses": 282710,
+    "matches": 581918,
+    "players": 93616
+  },
+  {
+    "item_id": 1932939246,
+    "bucket": null,
+    "wins": 169719,
+    "losses": 167484,
+    "matches": 337203,
+    "players": 57391
+  },
+  {
+    "item_id": 1955841979,
+    "bucket": null,
+    "wins": 162361,
+    "losses": 128630,
+    "matches": 290991,
+    "players": 66798
+  },
+  {
+    "item_id": 1976391348,
+    "bucket": null,
+    "wins": 739850,
+    "losses": 723134,
+    "matches": 1462984,
+    "players": 122572
+  },
+  {
+    "item_id": 1998374645,
+    "bucket": null,
+    "wins": 1232678,
+    "losses": 1282456,
+    "matches": 2515134,
+    "players": 176230
+  },
+  {
+    "item_id": 2010028405,
+    "bucket": null,
+    "wins": 290017,
+    "losses": 305624,
+    "matches": 595641,
+    "players": 100304
+  },
+  {
+    "item_id": 2037039379,
+    "bucket": null,
+    "wins": 70262,
+    "losses": 55334,
+    "matches": 125596,
+    "players": 42531
+  },
+  {
+    "item_id": 2059712766,
+    "bucket": null,
+    "wins": 40481,
+    "losses": 39911,
+    "matches": 80392,
+    "players": 23141
+  },
+  {
+    "item_id": 2061878743,
+    "bucket": null,
+    "wins": 19009,
+    "losses": 32446,
+    "matches": 51455,
+    "players": 19881
+  },
+  {
+    "item_id": 2064029594,
+    "bucket": null,
+    "wins": 216391,
+    "losses": 238161,
+    "matches": 454552,
+    "players": 89878
+  },
+  {
+    "item_id": 2081037738,
+    "bucket": null,
+    "wins": 654363,
+    "losses": 569523,
+    "matches": 1223886,
+    "players": 131704
+  },
+  {
+    "item_id": 2095565695,
+    "bucket": null,
+    "wins": 312158,
+    "losses": 306085,
+    "matches": 618243,
+    "players": 100259
+  },
+  {
+    "item_id": 2108215830,
+    "bucket": null,
+    "wins": 120334,
+    "losses": 104045,
+    "matches": 224379,
+    "players": 46850
+  },
+  {
+    "item_id": 2121044373,
+    "bucket": null,
+    "wins": 979845,
+    "losses": 1017275,
+    "matches": 1997120,
+    "players": 158070
+  },
+  {
+    "item_id": 2142980412,
+    "bucket": null,
+    "wins": 42114,
+    "losses": 33864,
+    "matches": 75978,
+    "players": 22339
+  },
+  {
+    "item_id": 2152872419,
+    "bucket": null,
+    "wins": 129795,
+    "losses": 151631,
+    "matches": 281426,
+    "players": 66978
+  },
+  {
+    "item_id": 2163598980,
+    "bucket": null,
+    "wins": 628503,
+    "losses": 613769,
+    "matches": 1242272,
+    "players": 134179
+  },
+  {
+    "item_id": 2221211450,
+    "bucket": null,
+    "wins": 73429,
+    "losses": 60518,
+    "matches": 133947,
+    "players": 39757
+  },
+  {
+    "item_id": 2226497419,
+    "bucket": null,
+    "wins": 108807,
+    "losses": 76217,
+    "matches": 185024,
+    "players": 57126
+  },
+  {
+    "item_id": 2356412290,
+    "bucket": null,
+    "wins": 908652,
+    "losses": 883283,
+    "matches": 1791935,
+    "players": 157968
+  },
+  {
+    "item_id": 2407033488,
+    "bucket": null,
+    "wins": 188272,
+    "losses": 191656,
+    "matches": 379928,
+    "players": 77516
+  },
+  {
+    "item_id": 2407781327,
+    "bucket": null,
+    "wins": 58418,
+    "losses": 44918,
+    "matches": 103336,
+    "players": 39396
+  },
+  {
+    "item_id": 2417568017,
+    "bucket": null,
+    "wins": 93153,
+    "losses": 67862,
+    "matches": 161015,
+    "players": 41477
+  },
+  {
+    "item_id": 2447176615,
+    "bucket": null,
+    "wins": 787325,
+    "losses": 741212,
+    "matches": 1528537,
+    "players": 145229
+  },
+  {
+    "item_id": 2463960640,
+    "bucket": null,
+    "wins": 227157,
+    "losses": 222902,
+    "matches": 450059,
+    "players": 88488
+  },
+  {
+    "item_id": 2480592370,
+    "bucket": null,
+    "wins": 497989,
+    "losses": 429941,
+    "matches": 927930,
+    "players": 107453
+  },
+  {
+    "item_id": 2481177645,
+    "bucket": null,
+    "wins": 109913,
+    "losses": 94397,
+    "matches": 204310,
+    "players": 51883
+  },
+  {
+    "item_id": 2519598785,
+    "bucket": null,
+    "wins": 1042632,
+    "losses": 875381,
+    "matches": 1918013,
+    "players": 163676
+  },
+  {
+    "item_id": 2533252781,
+    "bucket": null,
+    "wins": 40579,
+    "losses": 30272,
+    "matches": 70851,
+    "players": 23025
+  },
+  {
+    "item_id": 2566692615,
+    "bucket": null,
+    "wins": 552617,
+    "losses": 540889,
+    "matches": 1093506,
+    "players": 124503
+  },
+  {
+    "item_id": 2603935618,
+    "bucket": null,
+    "wins": 415169,
+    "losses": 399936,
+    "matches": 815105,
+    "players": 109843
+  },
+  {
+    "item_id": 2617435668,
+    "bucket": null,
+    "wins": 58456,
+    "losses": 56666,
+    "matches": 115122,
+    "players": 37505
+  },
+  {
+    "item_id": 2678489038,
+    "bucket": null,
+    "wins": 153175,
+    "losses": 143979,
+    "matches": 297154,
+    "players": 67593
+  },
+  {
+    "item_id": 2717651715,
+    "bucket": null,
+    "wins": 499964,
+    "losses": 434949,
+    "matches": 934913,
+    "players": 121688
+  },
+  {
+    "item_id": 2739107182,
+    "bucket": null,
+    "wins": 840505,
+    "losses": 796395,
+    "matches": 1636900,
+    "players": 145322
+  },
+  {
+    "item_id": 2800629741,
+    "bucket": null,
+    "wins": 22836,
+    "losses": 18167,
+    "matches": 41003,
+    "players": 12685
+  },
+  {
+    "item_id": 2820116164,
+    "bucket": null,
+    "wins": 57689,
+    "losses": 42814,
+    "matches": 100503,
+    "players": 36262
+  },
+  {
+    "item_id": 2829638276,
+    "bucket": null,
+    "wins": 1140729,
+    "losses": 1153009,
+    "matches": 2293738,
+    "players": 180414
+  },
+  {
+    "item_id": 2922054143,
+    "bucket": null,
+    "wins": 18587,
+    "losses": 27861,
+    "matches": 46448,
+    "players": 19726
+  },
+  {
+    "item_id": 2947183272,
+    "bucket": null,
+    "wins": 304490,
+    "losses": 311117,
+    "matches": 615607,
+    "players": 89806
+  },
+  {
+    "item_id": 2951612397,
+    "bucket": null,
+    "wins": 471020,
+    "losses": 422706,
+    "matches": 893726,
+    "players": 119237
+  },
+  {
+    "item_id": 2956256701,
+    "bucket": null,
+    "wins": 58472,
+    "losses": 57323,
+    "matches": 115795,
+    "players": 28108
+  },
+  {
+    "item_id": 2971868509,
+    "bucket": null,
+    "wins": 103954,
+    "losses": 103651,
+    "matches": 207605,
+    "players": 57704
+  },
+  {
+    "item_id": 3005970438,
+    "bucket": null,
+    "wins": 493867,
+    "losses": 368775,
+    "matches": 862642,
+    "players": 116165
+  },
+  {
+    "item_id": 3028234315,
+    "bucket": null,
+    "wins": 64100,
+    "losses": 49335,
+    "matches": 113435,
+    "players": 36023
+  },
+  {
+    "item_id": 3074274290,
+    "bucket": null,
+    "wins": 553141,
+    "losses": 521260,
+    "matches": 1074401,
+    "players": 101736
+  },
+  {
+    "item_id": 3077079169,
+    "bucket": null,
+    "wins": 196498,
+    "losses": 217318,
+    "matches": 413816,
+    "players": 91031
+  },
+  {
+    "item_id": 3140772621,
+    "bucket": null,
+    "wins": 221704,
+    "losses": 249297,
+    "matches": 471001,
+    "players": 101272
+  },
+  {
+    "item_id": 3144988365,
+    "bucket": null,
+    "wins": 43279,
+    "losses": 51298,
+    "matches": 94577,
+    "players": 29502
+  },
+  {
+    "item_id": 3190916303,
+    "bucket": null,
+    "wins": 331863,
+    "losses": 312909,
+    "matches": 644772,
+    "players": 92910
+  },
+  {
+    "item_id": 3261353684,
+    "bucket": null,
+    "wins": 1618916,
+    "losses": 1552429,
+    "matches": 3171345,
+    "players": 184293
+  },
+  {
+    "item_id": 3270001687,
+    "bucket": null,
+    "wins": 295042,
+    "losses": 269344,
+    "matches": 564386,
+    "players": 81590
+  },
+  {
+    "item_id": 3331811235,
+    "bucket": null,
+    "wins": 151181,
+    "losses": 173419,
+    "matches": 324600,
+    "players": 71521
+  },
+  {
+    "item_id": 3357231760,
+    "bucket": null,
+    "wins": 134161,
+    "losses": 106205,
+    "matches": 240366,
+    "players": 61833
+  },
+  {
+    "item_id": 3361075077,
+    "bucket": null,
+    "wins": 124001,
+    "losses": 159841,
+    "matches": 283842,
+    "players": 70240
+  },
+  {
+    "item_id": 3361811174,
+    "bucket": null,
+    "wins": 14441,
+    "losses": 10994,
+    "matches": 25435,
+    "players": 11718
+  },
+  {
+    "item_id": 3399065363,
+    "bucket": null,
+    "wins": 1023134,
+    "losses": 991328,
+    "matches": 2014462,
+    "players": 158396
+  },
+  {
+    "item_id": 3403085434,
+    "bucket": null,
+    "wins": 802610,
+    "losses": 705490,
+    "matches": 1508100,
+    "players": 131413
+  },
+  {
+    "item_id": 3491236900,
+    "bucket": null,
+    "wins": 118246,
+    "losses": 113188,
+    "matches": 231434,
+    "players": 65831
+  },
+  {
+    "item_id": 3585132399,
+    "bucket": null,
+    "wins": 909466,
+    "losses": 850340,
+    "matches": 1759806,
+    "players": 153803
+  },
+  {
+    "item_id": 3633614685,
+    "bucket": null,
+    "wins": 929555,
+    "losses": 908825,
+    "matches": 1838380,
+    "players": 161036
+  },
+  {
+    "item_id": 3647584222,
+    "bucket": null,
+    "wins": 53187,
+    "losses": 51837,
+    "matches": 105024,
+    "players": 31257
+  },
+  {
+    "item_id": 3696726732,
+    "bucket": null,
+    "wins": 454688,
+    "losses": 448226,
+    "matches": 902914,
+    "players": 120480
+  },
+  {
+    "item_id": 3731635960,
+    "bucket": null,
+    "wins": 369290,
+    "losses": 358424,
+    "matches": 727714,
+    "players": 99979
+  },
+  {
+    "item_id": 3776945997,
+    "bucket": null,
+    "wins": 1220408,
+    "losses": 1224899,
+    "matches": 2445307,
+    "players": 179328
+  },
+  {
+    "item_id": 3791587546,
+    "bucket": null,
+    "wins": 200277,
+    "losses": 177785,
+    "matches": 378062,
+    "players": 69803
+  },
+  {
+    "item_id": 3812615317,
+    "bucket": null,
+    "wins": 222276,
+    "losses": 202636,
+    "matches": 424912,
+    "players": 76397
+  },
+  {
+    "item_id": 3862866912,
+    "bucket": null,
+    "wins": 855725,
+    "losses": 870238,
+    "matches": 1725963,
+    "players": 150594
+  },
+  {
+    "item_id": 3884003354,
+    "bucket": null,
+    "wins": 125198,
+    "losses": 99560,
+    "matches": 224758,
+    "players": 64850
+  },
+  {
+    "item_id": 3919289022,
+    "bucket": null,
+    "wins": 504628,
+    "losses": 436547,
+    "matches": 941175,
+    "players": 121065
+  },
+  {
+    "item_id": 3970837787,
+    "bucket": null,
+    "wins": 1294224,
+    "losses": 1237145,
+    "matches": 2531369,
+    "players": 172243
+  },
+  {
+    "item_id": 3977876567,
+    "bucket": null,
+    "wins": 433104,
+    "losses": 442374,
+    "matches": 875478,
+    "players": 117032
+  },
+  {
+    "item_id": 4053935515,
+    "bucket": null,
+    "wins": 123158,
+    "losses": 132661,
+    "matches": 255819,
+    "players": 56208
+  },
+  {
+    "item_id": 4075861416,
+    "bucket": null,
+    "wins": 177571,
+    "losses": 167584,
+    "matches": 345155,
+    "players": 83592
+  },
+  {
+    "item_id": 4104549924,
+    "bucket": null,
+    "wins": 735131,
+    "losses": 742876,
+    "matches": 1478007,
+    "players": 149213
+  },
+  {
+    "item_id": 4139877411,
+    "bucket": null,
+    "wins": 1171393,
+    "losses": 1212543,
+    "matches": 2383936,
+    "players": 169993
+  },
+  {
+    "item_id": 4204808176,
+    "bucket": null,
+    "wins": 60935,
+    "losses": 69083,
+    "matches": 130018,
+    "players": 40954
+  }
+]
